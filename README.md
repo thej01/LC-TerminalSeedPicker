@@ -26,5 +26,3 @@ Basically, do whatever you want, just:
 3. Same license
 4. State changes
 
-Source Code: https://github.com/thej01/LC-TerminalSeedPicker
-
